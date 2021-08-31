@@ -18,7 +18,7 @@ Here is an example. Suppose we are developing a game. One possible organization 
 
 
 
-![Alt text]( https://media.geeksforgeeks.org/wp-content/uploads/Python-Packages.jpg "a title")
+![Alt text]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWWLY0LTS79evdX1mCmJMr9rPkkZYzau5gQ&usqp=CAU "a title")
 
 
 
